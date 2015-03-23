@@ -1,4 +1,4 @@
 Code-Jam
 ========
 
-Google Code Jam Proactice
+Google Code Jam Practice
